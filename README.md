@@ -150,48 +150,6 @@ const developer = {
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-### 🛒 **Full-Stack E-Commerce Platform**
-**Tech:** Flutter • ASP.NET Web API • SQL Server • JWT • Entity Framework
-
-- Enterprise-grade architecture with secure authentication & authorization
-- Real-time order processing & dynamic product management
-- RESTful API with role-based access control
-- Scalable database design handling complex transactions
-
----
-
-### ♻️ **Green Pack - IoT Eco-Reward System**
-**Tech:** Flutter • Firebase • Arduino • ESP32 • IoT • MQTT
-
-- Smart recycling system with hardware-software integration
-- Real-time communication between physical devices & mobile app
-- Firebase Realtime Database for instant reward allocation
-- Gamification encouraging sustainable behavior
-
----
-
-### 🎓 **School Management System**
-**Tech:** ASP.NET MVC Core • SQL Server • Entity Framework • Bootstrap
-
-- Comprehensive educational institution management
-- Multi-role access (Admin, Teacher, Student, Parent)
-- Attendance tracking, grade management, reporting
-- Complex relational database architecture
-
----
-
-### 💪 **Gym Management Pro**
-**Tech:** WPF • Entity Framework • SQL Server • MVVM • Prism
-
-- High-performance desktop application for fitness centers
-- Member subscriptions, trainer scheduling, financial reports
-- Clean MVVM architecture with dependency injection
-- Enterprise-level code maintainability
-
----
-
 ## 📊 GITHUB STATS
 
 <div align="center">
