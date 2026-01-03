@@ -4,11 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+The+Future+With+Code;Transforming+Ideas+Into+Digital+Reality;Where+Innovation+Meets+Execution" alt="Typing SVG" />
 
-
-
-
-
-
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-badrqabbari.netlify.app-00D9FF?style=flat-square)](https://badrqabbari.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/badr-eldin-qabbari-5b541b2b9)
