@@ -1,8 +1,11 @@
 <div align="center">
 <!-- HEADER WITH ANIMATED GRADIENT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BADR%20ELDIN%20QABBARI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Software%20Architect%20%7C&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BADR%20ELDIN%20QABBARI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=51"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+The+Future+With+Code;Transforming+Ideas+Into+Digital+Reality;Where+Innovation+Meets+Execution" alt="Typing SVG" />
+
+
+
 
 
 
@@ -13,6 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:badreldinahmedqabbari@gmail.com)
 
 </div>
+
 
 ```typescript
 const developer = {
