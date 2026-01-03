@@ -1,16 +1,17 @@
-## Hi there 👋
+# أهلاً بك في صفحة البروفايل الخاصة بي! 👋
 
-<!--
-**BadrQabbari274/BadrQabbari274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا Badr Eldin Qabbari، مهندس برمجيات و Frontend Developer متخصص في Next.js و React.
 
-Here are some ideas to get you started:
+## المهارات
+- JavaScript / TypeScript
+- React & Next.js
+- HTML / CSS / Tailwind
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## المشاريع
+- [Portfolio Website](https://badrqabbari.netlify.app)
+- [Blog App](https://github.com/BadrQabbari/blog-app)
+
+## تواصل معي
+- البريد الإلكتروني: badreldinahmedqabbari@gmail.com
+- LinkedIn: [linkedin.com/in/badr-eldin-qabbari](https://linkedin.com/in/badr-eldin-qabbari-5b541b2b9)
