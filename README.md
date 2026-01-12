@@ -19,7 +19,6 @@ const developer = {
 ```
 
 ---
-
 ## ⚡ TECH STACK
 <div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
@@ -37,12 +36,12 @@ const developer = {
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="SQL Server" />
+      <br>SQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -57,66 +56,20 @@ const developer = {
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+      <br>React.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="SQL Server" />
-      <br>SQL Server
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET Core" />
       <br>.NET Core
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
       <br>Visual Studio
@@ -129,21 +82,36 @@ const developer = {
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+      <br>Canva
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
+        <img src="https://skillicons.dev/icons?i=wpf" width="48" height="48" alt="WPF" />
+      <br>WPF
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prism" width="48" height="48" alt="Prism" />
+      <br>Prism Library
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mvvm" width="48" height="48" alt="MVVM" />
+      <br>MVVM
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=devops" width="48" height="48" alt="DevOps" />
+      <br>DevOps
     </td>
   </tr>
 </table>
