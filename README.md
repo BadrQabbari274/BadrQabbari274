@@ -154,16 +154,8 @@ const developer = {
 
 ---
 
-### 💭 WISDOM
-
-> **"First, solve the problem. Then, write the code."**  
-> — *John Johnson*
-
 > **"Be a Leader, History does not remember soldiers"**  
 > — *Because greatness demands you stand out, not blend in*
 
----
-
-**🚀 Open to collaborations, innovative projects, and opportunities that push boundaries**
 
 </div>
