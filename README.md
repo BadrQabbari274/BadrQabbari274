@@ -24,7 +24,7 @@ const developer = {
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#" />
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
@@ -40,8 +40,8 @@ const developer = {
       <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" height="48" alt="SQL Server" />
-      <br>SQL
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      <br>js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -79,41 +79,42 @@ const developer = {
       <br>VS Code
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Intellij " />
+      <br>Intellij
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
+      <br>gitlab
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
-      <br>Canva
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wpf" width="48" height="48" alt="WPF" />
-      <br>WPF
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prism" width="48" height="48" alt="Prism" />
-      <br>Prism Library
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mvvm" width="48" height="48" alt="MVVM" />
-      <br>MVVM
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=devops" width="48" height="48" alt="DevOps" />
-      <br>DevOps
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
+  
 </table>
 </div>
 
