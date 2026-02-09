@@ -10,7 +10,7 @@
 
 ```typescript
 const developer = {
-  name: "Badr Eldin Qabbari",
+  name: "Badreldin Qabbari",
   location: "Alexandria, Egypt 🇪🇬",
   role: "Software Engineer & Full-Stack Developer",
   currentFocus: ["Enterprise Apps", "IoT Solutions", "Scalable Systems"],
